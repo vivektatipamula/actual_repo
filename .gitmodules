@@ -1,0 +1,6 @@
+[submodule "test_sync"]
+	path = test_sync
+	url = https://github.com/vivektatipamula/test_sync
+[submodule "sync_dir"]
+	path = sync_dir
+	url = https://github.com/vivektatipamula/test_sync.git
